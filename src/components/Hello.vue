@@ -3,8 +3,8 @@ console.log('%c hello ', 'color: red;')
 </script>
 
 <template>
-  <div>
-    hello
+  <div color="amber">
+    Hello world!
   </div>
 </template>
 
